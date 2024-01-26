@@ -45,10 +45,10 @@ Veja tudo o que você vai encontrar por aqui:
 > **🗓️ [Calendário](https://www.notion.so/Imers-o-Front-End-Guia-de-Mergulho-53f23a8a959e43608524e08b22c585b9?pvs=21)**
 > 
 
-> 💡 **[Conheça a Alura](https://www.notion.so/Imers-o-Front-End-Guia-de-Mergulho-53f23a8a959e43608524e08b22c585b9?pvs=21)**
+> **💡[Conheça a Alura](https://www.notion.so/Imers-o-Front-End-Guia-de-Mergulho-53f23a8a959e43608524e08b22c585b9?pvs=21)**
 > 
 
-> **📩  [Dúvidas?](https://www.notion.so/Imers-o-Front-End-Guia-de-Mergulho-53f23a8a959e43608524e08b22c585b9?pvs=21)**
+> **📩[Dúvidas?](https://www.notion.so/Imers-o-Front-End-Guia-de-Mergulho-53f23a8a959e43608524e08b22c585b9?pvs=21)**
 > 
 
 Bora lá? Agora é só explorar o Guia e se preparar para o seu mergulho. Ao longo da Imersão, você pode consultar esse material sempre que quiser.
