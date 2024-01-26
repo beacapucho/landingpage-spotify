@@ -52,3 +52,12 @@ Veja tudo o que você vai encontrar por aqui:
 > 
 
 Bora lá? Agora é só explorar o Guia e se preparar para o seu mergulho. Ao longo da Imersão, você pode consultar esse material sempre que quiser.
+
+
+# **📩   Dúvidas?**
+
+A equipe da Alura está preparada para responder qualquer dúvida que apareça. [É só clicar aqui e entrar em contato com o nosso time](https://suporte.alura.com.br/support/tickets/new).
+
+E, durante a Imersão, lembre-se: **você não estará sozinho(a)**! O grupo do Discord vai reunir todas as pessoas inscritas e lá você vai poder interagir, se conectar e tirar dúvidas.
+
+**Tenha um ótimo mergulho!**
