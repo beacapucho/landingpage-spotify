@@ -25,6 +25,7 @@
 
 .header__navigation .navigation .arrow-left {
     margin-right: 1.25rem;
+    border-radius: 50%;
 }
 .arrow-left, .arrow-right {
     display: flex;
@@ -35,6 +36,7 @@
     background-color: rgba(0, 0, 0, 0.7);
     border: none;
     cursor: pointer;
+    border-radius: 50%;
 }
 .header__login{
     display: flex;
@@ -87,3 +89,28 @@
     cursor: pointer;
     color: var(--text-base-dark);
 }
+
+.playlist-container {
+    height: 68vh;
+    padding-top: 16px;
+    margin: 10px;
+    border-radius: 10px;
+    background-color: #121212;
+  }
+
+  .playlist {
+    margin: 24px;
+  }
+  
+  .playlist #greeting {
+    color: #fff;
+    font-size: 32px;
+    font-weight: 700;
+    margin-bottom: 48px;
+  }
+  
+  .playlist .session {
+    color: #fff;
+    font-size: 24px;
+    font-weight: 700;
+  }
